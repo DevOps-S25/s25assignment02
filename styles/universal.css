@@ -1,4 +1,9 @@
 body{
     background-color: blue;
-    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+div{
+    background-color: brown;
+    font-family: 'Courier New', Courier, monospace;
+    float: left;
 }
