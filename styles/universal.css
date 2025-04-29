@@ -1,9 +1,9 @@
 /* Home Page Styles */
 body {
-    font-family: Arial, sans-serif;
+    font-family: sen, sans-serif;
 }
 header, footer {
-    background-color: #5c0000;
+    background-color: #ffffff;
     color: rgb(255, 0, 0);
     padding: 1rem;
 }
