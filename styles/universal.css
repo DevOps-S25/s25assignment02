@@ -1,0 +1,13 @@
+/* Home Page Styles */
+body {
+    font-family: Arial, sans-serif;
+}
+header, footer {
+    background-color: #5c0000;
+    color: rgb(255, 0, 0);
+    padding: 1rem;
+}
+.featured-products {
+    display: grid;
+    gap: 1rem;
+}
